@@ -1,0 +1,13 @@
+(1) What is SDLC? Explain each phase of SDLC.
+- > The full from of SDLC  is Software Development Life Cycle. 
+->SDLC is used to design and high quality softwareproject
+->With the use of SDLC  you can develop a successful.
+=> The Phase Of SDLC.
+1.Planning: The planning is first step of SDLC. which the need for a software project is identified.
+2.Analysis:Analysis a survey of a like our project.
+3.Design:Design is a very important part of SDLC.which to show a wonderful our project.
+4.Implementation: Implementation is a apply to our backend and frontend side is our project.
+5.Testing and Integration: Testing Our project which how to work .
+6.Maintenance:Maintenance is the very important which is the  upgrade our project after sometime.
+
+ 
